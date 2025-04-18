@@ -83,6 +83,7 @@
       "mutton": "2025-04-18 03:24:05 +0000",
       "apple": "2025-04-18 03:26:05 +0000",
       "bread": "2025-04-18 03:03:40 +0000",
+      "cooked_beef": "2025-04-18 04:09:59 +0000",
       "beef": "2025-04-18 03:23:15 +0000"
     },
     "done": false
@@ -651,6 +652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-18 04:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-18 03:42:27 +0000"
@@ -666,6 +673,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-18 03:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-18 04:13:14 +0000"
     },
     "done": true
   },
