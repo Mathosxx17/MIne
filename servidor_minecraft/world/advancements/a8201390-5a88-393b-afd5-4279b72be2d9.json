@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2025-04-18 04:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-18 04:34:35 +0000"
@@ -308,6 +314,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 04:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-18 04:53:33 +0000"
     },
     "done": true
   },
@@ -656,6 +668,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-04-18 04:24:48 +0000",
+      "minecraft:savanna_plateau": "2025-04-18 04:53:16 +0000",
+      "minecraft:eroded_badlands": "2025-04-18 04:52:45 +0000",
       "minecraft:desert": "2025-04-18 04:25:50 +0000",
       "minecraft:river": "2025-04-18 04:25:54 +0000",
       "minecraft:warm_ocean": "2025-04-18 04:38:29 +0000"
@@ -716,6 +730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-18 04:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-18 04:26:02 +0000"
@@ -739,6 +759,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-18 04:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-18 04:51:08 +0000"
     },
     "done": true
   },
