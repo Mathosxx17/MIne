@@ -9,12 +9,14 @@
     "criteria": {
       "minecraft:badlands": "2025-04-18 04:24:48 +0000",
       "minecraft:savanna_plateau": "2025-04-18 04:53:16 +0000",
-      "minecraft:eroded_badlands": "2025-04-18 04:52:45 +0000",
       "minecraft:beach": "2025-04-18 05:08:52 +0000",
-      "minecraft:desert": "2025-04-18 04:25:50 +0000",
+      "minecraft:dark_forest": "2025-04-18 19:02:48 +0000",
       "minecraft:forest": "2025-04-18 05:06:45 +0000",
       "minecraft:river": "2025-04-18 04:25:54 +0000",
       "minecraft:lukewarm_ocean": "2025-04-18 05:14:11 +0000",
+      "minecraft:eroded_badlands": "2025-04-18 04:52:45 +0000",
+      "minecraft:desert": "2025-04-18 04:25:50 +0000",
+      "minecraft:ocean": "2025-04-18 19:02:38 +0000",
       "minecraft:savanna": "2025-04-18 05:00:01 +0000",
       "minecraft:windswept_savanna": "2025-04-18 05:07:47 +0000",
       "minecraft:plains": "2025-04-18 05:00:25 +0000",
@@ -1341,6 +1343,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-18 18:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-18 18:53:38 +0000"
     },
     "done": true
   },
