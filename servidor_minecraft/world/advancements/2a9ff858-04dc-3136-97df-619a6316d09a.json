@@ -2191,5 +2191,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-19 01:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper": {
+    "criteria": {
+      "has_waxed_cut_copper_slab": "2025-04-19 01:41:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

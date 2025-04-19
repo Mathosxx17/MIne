@@ -85,6 +85,7 @@
       "bread": "2025-04-18 03:03:40 +0000",
       "cooked_beef": "2025-04-18 04:09:59 +0000",
       "beef": "2025-04-18 03:23:15 +0000",
+      "baked_potato": "2025-04-19 01:33:55 +0000",
       "carrot": "2025-04-19 01:14:07 +0000"
     },
     "done": false
@@ -773,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-19 01:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-19 01:12:56 +0000"
@@ -782,6 +789,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 00:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-19 01:35:31 +0000"
     },
     "done": true
   },
@@ -875,6 +888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-19 01:41:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-19 00:45:15 +0000"
@@ -945,6 +964,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-04-19 01:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-19 01:35:31 +0000"
     },
     "done": true
   },
