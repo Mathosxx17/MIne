@@ -12,6 +12,7 @@
       "minecraft:beach": "2025-04-18 05:08:52 +0000",
       "minecraft:dark_forest": "2025-04-18 19:02:48 +0000",
       "minecraft:forest": "2025-04-18 05:06:45 +0000",
+      "minecraft:taiga": "2025-04-19 03:28:26 +0000",
       "minecraft:sparse_jungle": "2025-04-18 19:17:01 +0000",
       "minecraft:river": "2025-04-18 04:25:54 +0000",
       "minecraft:lukewarm_ocean": "2025-04-18 05:14:11 +0000",
@@ -2324,6 +2325,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-04-19 03:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-19 03:28:26 +0000"
     },
     "done": true
   },

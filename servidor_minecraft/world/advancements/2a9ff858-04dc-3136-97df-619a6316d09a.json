@@ -7,30 +7,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:badlands": "2025-04-18 02:47:59 +0000",
-      "minecraft:savanna_plateau": "2025-04-18 03:23:28 +0000",
-      "minecraft:beach": "2025-04-18 05:06:02 +0000",
-      "minecraft:stony_peaks": "2025-04-19 01:55:38 +0000",
       "minecraft:forest": "2025-04-18 05:03:09 +0000",
-      "minecraft:mangrove_swamp": "2025-04-18 05:03:55 +0000",
-      "minecraft:sparse_jungle": "2025-04-18 19:17:03 +0000",
-      "minecraft:river": "2025-04-18 03:08:12 +0000",
-      "minecraft:lukewarm_ocean": "2025-04-18 05:08:00 +0000",
+      "minecraft:taiga": "2025-04-19 03:28:17 +0000",
       "minecraft:lush_caves": "2025-04-19 00:46:08 +0000",
-      "minecraft:dripstone_caves": "2025-04-18 04:13:26 +0000",
       "minecraft:eroded_badlands": "2025-04-18 03:22:35 +0000",
       "minecraft:desert": "2025-04-18 03:03:08 +0000",
-      "minecraft:deep_dark": "2025-04-19 00:39:59 +0000",
       "minecraft:ocean": "2025-04-18 19:02:38 +0000",
       "minecraft:jungle": "2025-04-18 19:17:14 +0000",
       "minecraft:cherry_grove": "2025-04-18 19:06:05 +0000",
       "minecraft:birch_forest": "2025-04-18 19:03:10 +0000",
-      "minecraft:savanna": "2025-04-18 03:24:05 +0000",
       "minecraft:bamboo_jungle": "2025-04-19 01:15:28 +0000",
       "minecraft:windswept_savanna": "2025-04-18 05:05:30 +0000",
-      "minecraft:plains": "2025-04-18 03:25:17 +0000",
       "minecraft:warm_ocean": "2025-04-18 04:48:55 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-04-18 19:22:10 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-04-18 19:22:10 +0000",
+      "minecraft:badlands": "2025-04-18 02:47:59 +0000",
+      "minecraft:savanna_plateau": "2025-04-18 03:23:28 +0000",
+      "minecraft:beach": "2025-04-18 05:06:02 +0000",
+      "minecraft:stony_peaks": "2025-04-19 01:55:38 +0000",
+      "minecraft:mangrove_swamp": "2025-04-18 05:03:55 +0000",
+      "minecraft:sparse_jungle": "2025-04-18 19:17:03 +0000",
+      "minecraft:river": "2025-04-18 03:08:12 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-18 05:08:00 +0000",
+      "minecraft:dripstone_caves": "2025-04-18 04:13:26 +0000",
+      "minecraft:deep_dark": "2025-04-19 00:39:59 +0000",
+      "minecraft:savanna": "2025-04-18 03:24:05 +0000",
+      "minecraft:plains": "2025-04-18 03:25:17 +0000"
     },
     "done": false
   },
@@ -2287,9 +2288,10 @@
       "minecraft:crimson_forest": "2025-04-19 02:48:37 +0000",
       "minecraft:nether_wastes": "2025-04-19 02:07:01 +0000",
       "minecraft:soul_sand_valley": "2025-04-19 03:04:21 +0000",
-      "minecraft:basalt_deltas": "2025-04-19 03:12:56 +0000"
+      "minecraft:basalt_deltas": "2025-04-19 03:12:56 +0000",
+      "minecraft:warped_forest": "2025-04-19 03:27:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
@@ -2486,6 +2488,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-04-19 03:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-19 03:28:17 +0000"
     },
     "done": true
   },
