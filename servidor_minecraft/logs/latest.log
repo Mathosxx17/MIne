@@ -696,3 +696,14 @@
 [03:13:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-116, y=39, z=605} class_2338{x=-114, y=39, z=605}
 [03:13:43] [Server thread/INFO]: Ram_Tz has made the advancement [Hidden in the Depths]
 [03:13:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-122, y=36, z=599} class_2338{x=-123, y=37, z=599}
+[03:15:49] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[03:16:08] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[03:17:25] [Server thread/INFO]: Ram_Tz has made the advancement [Not Today, Thank You]
+[03:19:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-189, y=53, z=436} class_2338{x=-189, y=52, z=435}
+[03:22:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-191, y=37, z=340} class_2338{x=-191, y=37, z=339}
+[03:23:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-172, y=21, z=321} class_2338{x=-173, y=20, z=321}
+[03:24:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-160, y=14, z=344} class_2338{x=-160, y=13, z=342}
+[03:24:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-159, y=17, z=349} class_2338{x=-159, y=16, z=349}
+[03:24:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-159, y=17, z=349} class_2338{x=-159, y=16, z=349}
+[03:24:40] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
+[03:24:45] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to Ram_Tz]
