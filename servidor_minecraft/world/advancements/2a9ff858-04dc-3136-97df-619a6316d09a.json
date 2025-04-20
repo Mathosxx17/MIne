@@ -36,7 +36,8 @@
       "minecraft:deep_dark": "2025-04-19 00:39:59 +0000",
       "minecraft:swamp": "2025-04-19 23:47:49 +0000",
       "minecraft:savanna": "2025-04-18 03:24:05 +0000",
-      "minecraft:plains": "2025-04-18 03:25:17 +0000"
+      "minecraft:plains": "2025-04-18 03:25:17 +0000",
+      "minecraft:jagged_peaks": "2025-04-20 01:46:42 +0000"
     },
     "done": false
   },
@@ -99,6 +100,7 @@
       "bread": "2025-04-18 03:03:44 +0000",
       "golden_apple": "2025-04-18 19:14:48 +0000",
       "enchanted_golden_apple": "2025-04-20 00:41:15 +0000",
+      "cooked_mutton": "2025-04-20 01:15:44 +0000",
       "cooked_salmon": "2025-04-18 18:59:42 +0000",
       "carrot": "2025-04-18 18:23:47 +0000"
     },
@@ -432,10 +434,12 @@
       "minecraft:guardian": "2025-04-18 23:54:51 +0000",
       "minecraft:breeze": "2025-04-19 01:54:12 +0000",
       "minecraft:vindicator": "2025-04-19 22:39:31 +0000",
+      "minecraft:enderman": "2025-04-20 01:29:20 +0000",
       "minecraft:spider": "2025-04-18 04:41:28 +0000",
       "minecraft:piglin_brute": "2025-04-19 02:57:41 +0000",
       "minecraft:zombie": "2025-04-18 04:40:29 +0000",
-      "minecraft:creeper": "2025-04-18 04:40:46 +0000"
+      "minecraft:creeper": "2025-04-18 04:40:46 +0000",
+      "minecraft:evoker": "2025-04-20 01:26:21 +0000"
     },
     "done": false
   },
@@ -2699,6 +2703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-20 01:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-19 22:30:17 +0000"
@@ -2714,6 +2724,18 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-20 00:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-20 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-20 01:12:49 +0000"
     },
     "done": true
   },
@@ -2789,6 +2811,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-04-20 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-20 01:12:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-19 22:43:13 +0000"
@@ -2798,6 +2832,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-04-19 22:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-20 01:55:57 +0000"
     },
     "done": true
   },
@@ -2828,6 +2868,18 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-20 00:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-20 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-20 01:28:41 +0000"
     },
     "done": true
   },
@@ -2867,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-20 01:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-19 23:48:48 +0000"
@@ -2903,6 +2961,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-20 01:26:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-20 00:59:19 +0000"
@@ -2921,6 +2985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-04-20 01:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-20 00:39:10 +0000"
@@ -2936,6 +3006,18 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-20 00:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-20 01:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-20 01:14:07 +0000"
     },
     "done": true
   },
@@ -2990,6 +3072,18 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-04-19 22:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-20 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-20 01:12:49 +0000"
     },
     "done": true
   },

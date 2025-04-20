@@ -12,6 +12,7 @@
       "minecraft:lush_caves": "2025-04-19 00:46:03 +0000",
       "minecraft:eroded_badlands": "2025-04-18 04:52:45 +0000",
       "minecraft:desert": "2025-04-18 04:25:50 +0000",
+      "minecraft:windswept_forest": "2025-04-20 01:28:03 +0000",
       "minecraft:ocean": "2025-04-18 19:02:38 +0000",
       "minecraft:jungle": "2025-04-18 19:17:07 +0000",
       "minecraft:cherry_grove": "2025-04-18 19:06:00 +0000",
@@ -535,6 +536,7 @@
       "bread": "2025-04-18 04:58:50 +0000",
       "golden_apple": "2025-04-19 02:14:46 +0000",
       "rotten_flesh": "2025-04-18 04:31:10 +0000",
+      "enchanted_golden_apple": "2025-04-20 01:32:02 +0000",
       "cooked_mutton": "2025-04-19 02:53:29 +0000",
       "rabbit": "2025-04-18 04:33:28 +0000",
       "cooked_cod": "2025-04-18 05:22:19 +0000",
@@ -1223,7 +1225,9 @@
       "minecraft:skeleton": "2025-04-18 18:39:35 +0000",
       "minecraft:piglin": "2025-04-19 03:00:10 +0000",
       "minecraft:guardian": "2025-04-19 02:19:24 +0000",
+      "minecraft:vindicator": "2025-04-20 01:23:02 +0000",
       "minecraft:spider": "2025-04-18 18:21:43 +0000",
+      "minecraft:vex": "2025-04-20 01:32:11 +0000",
       "minecraft:zombie": "2025-04-18 18:39:54 +0000",
       "minecraft:creeper": "2025-04-19 00:52:45 +0000",
       "minecraft:zombie_villager": "2025-04-18 18:41:46 +0000",
@@ -2501,6 +2505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-20 01:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-20 00:59:34 +0000"
@@ -2519,6 +2529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-20 01:50:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-20 00:59:34 +0000"
@@ -2531,15 +2547,39 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-20 01:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-20 00:48:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-20 01:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-20 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-20 01:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-20 01:28:44 +0000"
     },
     "done": true
   },
@@ -2555,9 +2595,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-20 01:50:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-20 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-20 01:50:54 +0000"
     },
     "done": true
   },
