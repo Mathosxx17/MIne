@@ -87,6 +87,7 @@
       "apple": "2025-04-18 03:26:05 +0000",
       "bread": "2025-04-18 03:03:40 +0000",
       "cooked_chicken": "2025-04-19 23:58:23 +0000",
+      "enchanted_golden_apple": "2025-04-20 00:50:45 +0000",
       "cooked_mutton": "2025-04-19 22:15:59 +0000",
       "cooked_beef": "2025-04-18 04:09:59 +0000",
       "beef": "2025-04-18 03:23:15 +0000",
@@ -1501,6 +1502,36 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-20 00:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-20 00:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-20 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-20 00:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-20 00:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-20 00:47:36 +0000"
     },
     "done": true
   },
