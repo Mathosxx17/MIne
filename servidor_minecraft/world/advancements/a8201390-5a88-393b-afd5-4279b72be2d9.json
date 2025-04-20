@@ -32,6 +32,7 @@
       "minecraft:river": "2025-04-18 04:25:54 +0000",
       "minecraft:lukewarm_ocean": "2025-04-18 05:14:11 +0000",
       "minecraft:stony_shore": "2025-04-19 22:25:15 +0000",
+      "minecraft:snowy_plains": "2025-04-20 03:15:38 +0000",
       "minecraft:dripstone_caves": "2025-04-20 00:09:25 +0000",
       "minecraft:deep_dark": "2025-04-19 00:29:10 +0000",
       "minecraft:savanna": "2025-04-18 05:00:01 +0000",
@@ -2856,6 +2857,30 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-04-20 02:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-20 03:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-20 03:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-20 03:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-20 03:48:42 +0000"
     },
     "done": true
   },
