@@ -31,6 +31,7 @@
       "minecraft:river": "2025-04-18 04:25:54 +0000",
       "minecraft:lukewarm_ocean": "2025-04-18 05:14:11 +0000",
       "minecraft:stony_shore": "2025-04-19 22:25:15 +0000",
+      "minecraft:dripstone_caves": "2025-04-20 00:09:25 +0000",
       "minecraft:deep_dark": "2025-04-19 00:29:10 +0000",
       "minecraft:savanna": "2025-04-18 05:00:01 +0000",
       "minecraft:plains": "2025-04-18 05:00:25 +0000"
@@ -2428,6 +2429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-19 23:34:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-19 22:59:33 +0000"
@@ -2473,6 +2480,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-04-19 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-19 23:34:41 +0000"
     },
     "done": true
   },

@@ -1,245 +1,142 @@
-[22:06:15] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[22:06:15] [main/INFO]: Loading 4 mods:
-	- fabricloader 0.16.3
-	   \-- mixinextras 0.4.1
-	- java 21
-	- minecraft 1.21.1
-[22:06:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MIne/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:06:34] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:06:40] [main/INFO]: Loaded 1290 recipes
-[22:06:40] [main/INFO]: Loaded 1399 advancements
-[22:06:41] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:06:41] [Server thread/INFO]: Loading properties
-[22:06:41] [Server thread/INFO]: Default game type: SURVIVAL
-[22:06:41] [Server thread/INFO]: Generating keypair
-[22:06:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:06:42] [Server thread/INFO]: Using epoll channel type
-[22:06:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:06:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:06:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:06:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:06:42] [Server thread/INFO]: Preparing level "world"
-[22:06:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:06:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:06:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:06:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:06:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:06:54] [Worker-Main-1/INFO]: Preparing spawn area: 12%
-[22:06:55] [Server thread/INFO]: Time elapsed: 2436 ms
-[22:06:55] [Server thread/INFO]: Done (12.213s)! For help, type "help"
-[22:08:15] [Server thread/INFO]: XxMatos15[/172.28.131.63:53604] logged in with entity id 32 at (200.44894697023665, 50.59086489659478, 4503.645756120951)
-[22:08:15] [Server thread/INFO]: XxMatos15 joined the game
-[22:09:30] [Server thread/INFO]: [XxMatos15: Successfully filled 1972 block(s)]
-[22:10:38] [Server thread/INFO]: [XxMatos15: Successfully filled 986 block(s)]
-[22:10:49] [Server thread/INFO]: [XxMatos15: Successfully filled 1964 block(s)]
-[22:11:24] [Server thread/INFO]: [XxMatos15: Successfully filled 1663 block(s)]
-[22:11:37] [Server thread/INFO]: [XxMatos15: Successfully filled 1662 block(s)]
-[22:11:38] [Server thread/INFO]: [XxMatos15: Successfully filled 1662 block(s)]
-[22:11:39] [Server thread/INFO]: [XxMatos15: Successfully filled 1662 block(s)]
-[22:11:39] [Server thread/INFO]: [XxMatos15: Successfully filled 1660 block(s)]
-[22:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[22:11:56] [Server thread/INFO]: Ram_Tz[/172.28.72.140:51306] logged in with entity id 13416 at (206.8186013910013, 64.0, 4532.648805878429)
-[22:11:56] [Server thread/INFO]: Ram_Tz joined the game
-[22:12:00] [Server thread/INFO]: [XxMatos15: Successfully filled 1659 block(s)]
-[22:12:00] [Server thread/INFO]: [XxMatos15: Successfully filled 1654 block(s)]
-[22:12:01] [Server thread/INFO]: [XxMatos15: Successfully filled 1654 block(s)]
-[22:12:01] [Server thread/INFO]: [XxMatos15: Successfully filled 1653 block(s)]
-[22:12:02] [Server thread/INFO]: [XxMatos15: Successfully filled 1942 block(s)]
-[22:12:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[22:12:34] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[22:12:42] [Server thread/INFO]: pingaparaangel[/172.28.117.248:54974] logged in with entity id 22310 at (-1433.4948863615643, 64.0, 431.7979719837925)
-[22:12:42] [Server thread/INFO]: pingaparaangel joined the game
-[22:12:44] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to Ram_Tz]
-[22:12:58] [Server thread/INFO]: [XxMatos15: Successfully filled 1944 block(s)]
-[22:13:01] [Server thread/INFO]: [XxMatos15: Successfully filled 1944 block(s)]
-[22:13:02] [Server thread/INFO]: [XxMatos15: Successfully filled 1944 block(s)]
-[22:13:02] [Server thread/INFO]: [XxMatos15: Successfully filled 1944 block(s)]
-[22:13:06] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to Ram_Tz]
-[22:13:35] [Server thread/INFO]: [XxMatos15: Successfully filled 1939 block(s)]
-[22:13:35] [Server thread/INFO]: [XxMatos15: Successfully filled 1936 block(s)]
-[22:13:36] [Server thread/INFO]: [XxMatos15: Successfully filled 1936 block(s)]
-[22:13:36] [Server thread/INFO]: [XxMatos15: Successfully filled 1935 block(s)]
-[22:13:36] [Server thread/INFO]: [XxMatos15: Successfully filled 1930 block(s)]
-[22:13:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[22:13:40] [Server thread/INFO]: [XxMatos15: Successfully filled 1931 block(s)]
-[22:14:26] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:15:38] [Server thread/INFO]: [XxMatos15: Successfully filled 3808 block(s)]
-[22:16:09] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:16:25] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[22:17:35] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:17:50] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:18:16] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[22:18:18] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:19:11] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:19:24] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[22:19:25] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:19:57] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:20:09] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:20:26] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[22:20:40] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:21:03] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:21:41] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:22:02] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:22:29] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:23:28] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22:23:34] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:23:34] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22:23:37] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[22:23:41] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[22:23:43] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZ
-[22:23:43] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[22:24:00] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:24:09] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[22:24:09] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[22:24:12] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[22:24:13] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZ
-[22:24:13] [Server thread/INFO]: [Not Secure] <XxMatos15> zzzzz
-[22:24:18] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:24:47] [Server thread/INFO]: [XxMatos15: Set the time to 18000]
-[22:24:52] [Server thread/INFO]: [Not Secure] <pingaparaangel> tmr
-[22:24:55] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
-[22:24:57] [Server thread/INFO]: [Not Secure] <pingaparaangel> hazlo de dia gil
-[22:25:11] [Server thread/INFO]: [Not Secure] <XxMatos15> se bugeo el msx
-[22:25:18] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:25:28] [Server thread/INFO]: [Not Secure] <pingaparaangel> me aparecio un creper de la nd
-[22:25:32] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to Ram_Tz]
-[22:27:50] [Server thread/INFO]: [Not Secure] <XxMatos15> xd
-[22:27:56] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
-[22:29:25] [Server thread/INFO]: [Not Secure] <pingaparaangel> a dnd te llevaba ese portal medio roto q encontrabas
-[22:30:26] [Server thread/INFO]: pingaparaangel has made the advancement [Ice Bucket Challenge]
-[22:30:29] [Server thread/WARN]: Ram_Tz moved too quickly! 9.112041832482419,-1.0,-4.097277341505105
-[22:33:31] [Server thread/INFO]: Locating element minecraft:mansion took 844 ms
-[22:33:35] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to 4368.500000, 66.000000, 8064.500000]
-[22:33:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
-[22:33:42] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:33:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2362, y=78, z=4108} class_2338{x=2361, y=78, z=4108}
-[22:34:57] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22:35:01] [Server thread/INFO]: [Not Secure] <pingaparaangel> duerman
-[22:35:10] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz}zzzz
-[22:35:12] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzz
-[22:35:15] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22:35:58] [Server thread/INFO]: [Not Secure] <XxMatos15> zzzz
-[22:36:10] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:36:24] [Server thread/INFO]: [Not Secure] <XxMatos15> zzzzzzzzzzzzzzz
-[22:36:26] [Server thread/INFO]: [Not Secure] <pingaparaangel> duermnan
-[22:36:29] [Server thread/INFO]: [Not Secure] <pingaparaangel> e
-[22:36:38] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
-[22:36:39] [Server thread/INFO]: [Not Secure] <XxMatos15> ya
-[22:37:11] [Server thread/INFO]: [Not Secure] <pingaparaangel> esa wbd
-[22:37:19] [Server thread/WARN]: Ram_Tz moved too quickly! 2.2099940126386173,1.4186640077748365,-9.899532256522889
-[22:37:19] [Server thread/WARN]: pingaparaangel moved too quickly! 2.097187809695697,-2.6754387601295093,9.75708541044554
-[22:37:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[22:37:25] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to 4368.500000, 80.000000, 8064.500000]
-[22:37:56] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
-[22:43:44] [Server thread/INFO]: XxMatos15 has made the advancement [Ol' Betsy]
-[22:43:44] [Server thread/INFO]: XxMatos15 has made the advancement [Take Aim]
-[22:46:05] [Server thread/INFO]: [Not Secure] <pingaparaangel> OE CHIFAS
-[22:46:08] [Server thread/INFO]: [Not Secure] <XxMatos15> q
-[22:46:18] [Server thread/INFO]: [Not Secure] <pingaparaangel> no le dijiste a la yegua
-[22:46:24] [Server thread/INFO]: [Not Secure] <XxMatos15> si
-[22:46:48] [Server thread/INFO]: [Not Secure] <pingaparaangel> tmr yegua de mrd
-[22:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
-[22:48:37] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:48:44] [Server thread/INFO]: [Not Secure] <Ram_Tz> haz de dia vro
-[22:48:49] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
-[22:48:57] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[22:49:02] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[22:49:13] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:49:55] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
-[22:50:24] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to 4368.500000, 62.000000, 8064.500000]
-[22:52:38] [Server thread/WARN]: Oak Boat (vehicle of Ram_Tz) moved too quickly! -2.3476606814247134,0.0,-10.11851129100205
-[22:52:38] [Server thread/WARN]: Oak Boat (vehicle of Ram_Tz) moved too quickly! -2.449728083126047,0.0,-10.505135091473448
-[22:52:47] [Server thread/INFO]: [Not Secure] <XxMatos15> afk
-[22:52:52] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[23:00:58] [Server thread/WARN]: Oak Boat (vehicle of Ram_Tz) moved too quickly! -7.2230428745060635,0.0,-7.4824864086542675
-[23:04:55] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:04:59] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:03] [Server thread/WARN]: Oak Boat (vehicle of Ram_Tz) moved too quickly! -9.427756310976292,0.0,-4.202646590502923
-[23:05:03] [Server thread/WARN]: Oak Boat (vehicle of Ram_Tz) moved too quickly! -9.808028622687289,0.0,-4.320236331369188
-[23:05:03] [Server thread/WARN]: Oak Boat (vehicle of Ram_Tz) moved too quickly! -10.18988567075462,0.0,-4.431625073405371
-[23:05:03] [Server thread/WARN]: Oak Boat (vehicle of Ram_Tz) moved too quickly! -10.5732769404176,0.0,-4.536600045574005
-[23:05:03] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:03] [Server thread/WARN]: Oak Boat (vehicle of Ram_Tz) moved too quickly! -10.958131547012044,0.0,-4.635047815076518
-[23:05:08] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:11] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:14] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:15] [Server thread/INFO]: Villager class_1646['Nitwit'/85822, l='ServerLevel[world]', x=1655.63, y=70.00, z=-810.72] died, message: 'Nitwit suffocated in a wall'
-[23:05:16] [Server thread/INFO]: Villager class_1646['Villager'/85839, l='ServerLevel[world]', x=1647.37, y=71.00, z=-820.28] died, message: 'Villager suffocated in a wall'
-[23:05:18] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:22] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:27] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:32] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:37] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:39] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:42] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:05:44] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZ
-[23:14:40] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[23:14:59] [Server thread/WARN]: XxMatos15 moved too quickly! 10.360367244759914,0.0,-0.626935531562367
-[23:15:40] [Server thread/WARN]: Ram_Tz moved too quickly! 7.209775739375232,-0.42355929454303975,7.30680132134853
-[23:16:35] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:16:38] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:16:41] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:16:51] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
-[23:18:22] [Server thread/WARN]: Ram_Tz moved too quickly! 0.2854241312816157,-13.128321567280935,1.4692357785338572
-[23:18:30] [Server thread/INFO]: [XxMatos15: Set the weather to clear]
-[23:18:48] [Server thread/INFO]: [XxMatos15: Set the weather to rain]
-[23:19:10] [Server thread/INFO]: [XxMatos15: Set the weather to rain & thunder]
-[23:19:51] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[23:20:03] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[23:20:43] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[23:20:48] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[23:20:52] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:20:57] [Server thread/INFO]: [Not Secure] <XxMatos15> es de dia
-[23:20:57] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:21:01] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:21:06] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:21:11] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:21:17] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:21:21] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:21:25] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:21:25] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[23:21:30] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:21:38] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:21:43] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:21:49] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:21:56] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:21:59] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:22:03] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:22:06] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:22:10] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:22:15] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:22:17] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
-[23:22:19] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:22:23] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:22:23] [Server thread/INFO]: [Not Secure] <XxMatos15> yaesta de dia
-[23:22:27] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:22:28] [Server thread/INFO]: [Not Secure] <pingaparaangel> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[23:22:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2217, y=54, z=-1253} class_2338{x=2210, y=63, z=-1259}
-[23:22:44] [Server thread/INFO]: [Not Secure] <pingaparaangel> duerme nomas
-[23:22:51] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:22:56] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:23:01] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:23:01] [Server thread/INFO]: [Not Secure] <Ram_Tz> zzz
-[23:23:02] [Server thread/INFO]: [Not Secure] <XxMatos15> no se puede
-[23:23:04] [Server thread/INFO]: [Not Secure] <pingaparaangel> zZZZZZZZZZZZZZZZZZZZZ
-[23:23:07] [Server thread/INFO]: [Not Secure] <pingaparaangel> SI SE PUEDE
-[23:23:14] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzz
-[23:23:16] [Server thread/INFO]: [Not Secure] <XxMatos15> ya
-[23:23:32] [Server thread/INFO]: [Not Secure] <pingaparaangel> la yegua se robo mis esmeraldas
-[23:24:15] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
-[23:24:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2210, y=61, z=-1259} class_2338{x=2211, y=62, z=-1260}
-[23:24:37] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
-[23:24:49] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[23:24:55] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
-[23:25:01] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
-[23:25:01] [Server thread/INFO]: XxMatos15 has made the advancement [Surge Protector]
-[23:25:01] [Server thread/INFO]: pingaparaangel has made the advancement [Surge Protector]
-[23:25:20] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
-[23:25:33] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
-[23:25:33] [Server thread/INFO]: Villager class_1646['Villager'/64432, l='ServerLevel[world]', x=-785.43, y=63.00, z=768.23] was struck by lightning class_1538['Lightning Bolt'/99622, l='ServerLevel[world]', x=-785.52, y=64.04, z=768.16].
-[23:25:47] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
-[23:25:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-723, y=64, z=830} class_2338{x=-722, y=63, z=831}
-[23:26:00] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
-[23:26:16] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
-[23:26:26] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
-[23:26:35] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:02:14] [Server thread/WARN]: Ram_Tz moved too quickly! -9.887045303614741,-0.5040129017765196,1.9602891611903033
+[00:02:14] [Server thread/WARN]: pingaparaangel moved too quickly! -10.362882698412704,-0.666924101326714,-0.9084651260340024
+[00:02:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[00:03:20] [Server thread/INFO]: pingaparaangel was slain by Iron Golem
+[00:03:28] [Server thread/INFO]: [Not Secure] <Ram_Tz> XD
+[00:05:02] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[00:05:17] [Server thread/INFO]: XxMatos15 has made the advancement [Voluntary Exile]
+[00:05:39] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
+[00:05:42] [Server thread/INFO]: [Not Secure] <pingaparaangel> de la nd todos los golem me quieren kchar
+[00:05:44] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
+[00:05:54] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[00:06:24] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
+[00:06:56] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[00:07:09] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:07:12] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:07:14] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:07:19] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:07:22] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:07:23] [Server thread/INFO]: [Not Secure] <Ram_Tz> zzz
+[00:07:26] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:07:26] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
+[00:07:27] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:07:41] [Server thread/INFO]: [Not Secure] <pingaparaangel> chifa pasa comida
+[00:07:49] [Server thread/INFO]: [Not Secure] <XxMatos15> no tengo
+[00:08:07] [Server thread/INFO]: [Not Secure] <pingaparaangel> tmr
+[00:08:08] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
+[00:08:14] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
+[00:08:14] [Server thread/INFO]: [Not Secure] <pingaparaangel> se me viene una invasion de mrd
+[00:08:33] [Server thread/INFO]: [Not Secure] <pingaparaangel> tmr
+[00:08:40] [Server thread/INFO]: [Not Secure] <XxMatos15> ve
+[00:08:49] [Server thread/WARN]: pingaparaangel moved too quickly! -7.361335339889592,0.16610926093821377,-7.138531074508592
+[00:08:57] [Server thread/INFO]: pingaparaangel has made the advancement [Voluntary Exile]
+[00:09:07] [Server thread/INFO]: [XxMatos15: Set the weather to rain & thunder]
+[00:09:09] [Server thread/INFO]: Villager class_1646['Mason'/64288, l='ServerLevel[world]', x=-828.00, y=62.94, z=779.00] died, message: 'Mason was shot by Pillager'
+[00:09:25] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:09:31] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:09:33] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:09:37] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:09:37] [Server thread/INFO]: Villager class_1646['Mason'/101806, l='ServerLevel[world]', x=-825.53, y=62.94, z=785.61] was struck by lightning class_1538['Lightning Bolt'/128695, l='ServerLevel[world]', x=-824.90, y=65.72, z=784.91].
+[00:09:37] [Server thread/INFO]: Villager class_1646['Nitwit'/101937, l='ServerLevel[world]', x=-826.22, y=64.00, z=786.69] was struck by lightning class_1538['Lightning Bolt'/128695, l='ServerLevel[world]', x=-824.90, y=65.72, z=784.91].
+[00:09:38] [Server thread/INFO]: Villager class_1646['Farmer'/64282, l='ServerLevel[world]', x=-828.17, y=64.11, z=785.75] was struck by lightning class_1538['Lightning Bolt'/128695, l='ServerLevel[world]', x=-824.90, y=65.72, z=784.91].
+[00:09:41] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:09:45] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:09:48] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:09:48] [Server thread/INFO]: pingaparaangel was struck by lightning
+[00:09:57] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:10:00] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:10:00] [Server thread/INFO]: Villager class_1646['Nitwit'/124764, l='ServerLevel[world]', x=-814.68, y=64.56, z=767.55] died, message: 'Nitwit was slain by Vindicator'
+[00:10:04] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:10:06] [Server thread/INFO]: pingaparaangel was blown up by Creeper
+[00:10:14] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:10:16] [Server thread/INFO]: Villager class_1646['Toolsmith'/101792, l='ServerLevel[world]', x=-809.30, y=64.00, z=799.70] died, message: 'Toolsmith was slain by Vindicator'
+[00:10:26] [Server thread/WARN]: pingaparaangel moved too quickly! -9.673751925185229,-0.9893499858739716,-2.4853469798837295
+[00:10:26] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:10:30] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:10:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[00:10:30] [Server thread/INFO]: pingaparaangel lost connection: Flying is not enabled on this server
+[00:10:30] [Server thread/INFO]: pingaparaangel left the game
+[00:10:30] [Server thread/WARN]: handleDisconnection() called twice
+[00:10:32] [Server thread/INFO]: Villager class_1646['Farmer'/96770, l='ServerLevel[world]', x=-853.15, y=61.05, z=785.83] died, message: 'Farmer drowned'
+[00:10:37] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:10:37] [Server thread/INFO]: Villager class_1646['Villager'/127229, l='ServerLevel[world]', x=-857.46, y=63.00, z=797.45] died, message: 'Villager was slain by Vindicator'
+[00:10:39] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:10:43] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to Ram_Tz]
+[00:10:45] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to Ram_Tz]
+[00:10:48] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to Ram_Tz]
+[00:10:49] [Server thread/INFO]: pingaparaangel[/172.28.117.248:56000] logged in with entity id 129719 at (-782.6990004217563, 65.25220334025373, 811.6679456664504)
+[00:10:49] [Server thread/INFO]: pingaparaangel joined the game
+[00:10:54] [Server thread/INFO]: [XxMatos15: Set the weather to rain & thunder]
+[00:11:02] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:11:13] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:11:21] [Server thread/INFO]: pingaparaangel was shot by Pillager
+[00:11:23] [Server thread/INFO]: [XxMatos15: Set the weather to rain & thunder]
+[00:11:27] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
+[00:11:34] [Server thread/INFO]: pingaparaangel lost connection: Timed out
+[00:11:34] [Server thread/INFO]: pingaparaangel left the game
+[00:11:34] [Server thread/WARN]: handleDisconnection() called twice
+[00:11:41] [Server thread/INFO]: Villager class_1646['Villager'/130527, l='ServerLevel[world]', x=-881.74, y=64.25, z=809.50] died, message: 'Villager was slain by Vindicator'
+[00:11:43] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:11:54] [Server thread/INFO]: pingaparaangel[/172.28.117.248:56035] logged in with entity id 131062 at (-860.7750731788111, 63.40012859041687, 819.5524924023201)
+[00:11:54] [Server thread/INFO]: pingaparaangel joined the game
+[00:11:59] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to pingaparaangel]
+[00:12:10] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:12] [Server thread/INFO]: Villager class_1646['Mason'/130528, l='ServerLevel[world]', x=-832.59, y=63.00, z=784.57] died, message: 'Mason was shot by Pillager'
+[00:12:16] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:20] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:21] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:22] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:24] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:25] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:26] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:26] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:27] [Server thread/INFO]: pingaparaangel was struck by lightning
+[00:12:35] [Server thread/INFO]: Villager class_1646['Fletcher'/130532, l='ServerLevel[world]', x=-849.73, y=62.94, z=806.80] died, message: 'Fletcher was shot by Pillager'
+[00:12:36] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:40] [Server thread/INFO]: [Not Secure] <Ram_Tz> oe, quita Ia tormenta
+[00:12:43] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:46] [Server thread/INFO]: [Not Secure] <XxMatos15> como era
+[00:12:47] [Server thread/INFO]: [Not Secure] <pingaparaangel> quitsla
+[00:12:52] [Server thread/INFO]: [Not Secure] <XxMatos15> como era
+[00:12:53] [Server thread/INFO]: Villager class_1646['Farmer'/130539, l='ServerLevel[world]', x=-813.45, y=63.00, z=776.30] died, message: 'Farmer was slain by Zombie'
+[00:12:54] [Server thread/INFO]: [Not Secure] <pingaparaangel> se quema mi choza
+[00:12:56] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:12:57] [Server thread/INFO]: [Not Secure] <Ram_Tz> asi /weather clear
+[00:13:01] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:02] [Server thread/INFO]: [Not Secure] <XxMatos15> ya
+[00:13:06] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:07] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:09] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:11] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:12] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:12] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:13] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:13] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:14] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:14] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:15] [Server thread/INFO]: Villager class_1646['Toolsmith'/130522, l='ServerLevel[world]', x=-819.92, y=63.00, z=790.83] died, message: 'Toolsmith was shot by Pillager'
+[00:13:19] [Server thread/INFO]: [XxMatos15: Set the weather to clear]
+[00:13:27] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:13:34] [Server thread/INFO]: [Not Secure] <pingaparaangel> valen pingan los rodrigo
+[00:13:58] [Server thread/WARN]: pingaparaangel moved too quickly! -0.5829656823033247,1.252203340253729,-10.116243960253314
+[00:14:04] [Server thread/INFO]: pingaparaangel was slain by Vindicator
+[00:14:08] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[00:14:13] [Server thread/INFO]: Villager class_1646['Farmer'/130526, l='ServerLevel[world]', x=-830.68, y=63.42, z=798.70] died, message: 'Farmer was slain by Vindicator'
+[00:15:05] [Server thread/WARN]: pingaparaangel moved too quickly! 6.855655773040212,-0.756759288177264,7.6648732040541745
+[00:16:04] [Server thread/INFO]: pingaparaangel was shot by Skeleton
+[00:16:24] [Server thread/INFO]: pingaparaangel lost connection: Timed out
+[00:16:24] [Server thread/INFO]: pingaparaangel left the game
+[00:16:24] [Server thread/WARN]: handleDisconnection() called twice
+[00:16:51] [Server thread/INFO]: pingaparaangel[/172.28.117.248:56131] logged in with entity id 135086 at (-766.1913690625856, 66.0, 831.7689372910678)
+[00:16:51] [Server thread/INFO]: pingaparaangel joined the game
+[00:17:34] [Server thread/INFO]: pingaparaangel was shot by Skeleton
+[00:17:42] [Server thread/WARN]: pingaparaangel moved too quickly! -3.4483211172090478,1.0013359791121417,-9.574859567243493
+[00:17:45] [Server thread/INFO]: [Not Secure] <Ram_Tz> zzz
+[00:18:06] [Server thread/INFO]: pingaparaangel lost connection: Timed out
+[00:18:06] [Server thread/INFO]: pingaparaangel left the game
+[00:18:24] [Server thread/INFO]: [XxMatos15: Summoned new Lightning Bolt]
+[00:18:24] [Server thread/INFO]: [Not Secure] <Ram_Tz> oe, zzz
+[00:18:29] [Server thread/INFO]: pingaparaangel[/172.28.117.248:56137] logged in with entity id 135831 at (-765.3550536336307, 66.0, 827.9305776854994)
+[00:18:29] [Server thread/INFO]: pingaparaangel joined the game
+[00:18:32] [Server thread/INFO]: pingaparaangel was blown up by Creeper
+[00:18:41] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
