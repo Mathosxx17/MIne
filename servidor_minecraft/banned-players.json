@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "9215ccf6-173f-3ff3-bda3-d8227ae99fa0",
+    "name": "op",
+    "created": "2025-04-30 23:41:22 +0000",
+    "source": "XxMatos15",
+    "expires": "forever",
+    "reason": "ram_tz"
+  }
+]
