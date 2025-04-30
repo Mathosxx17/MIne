@@ -27,3 +27,11 @@
 [21:29:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
 [21:29:27] [Server thread/INFO]: Time elapsed: 2679 ms
 [21:29:27] [Server thread/INFO]: Done (13.050s)! For help, type "help"
+[21:43:20] [Server thread/INFO]: Ram_Tz[/172.28.72.140:51893] logged in with entity id 69 at (4498.243655098664, 65.53877840320065, 2492.2197510668925)
+[21:43:20] [Server thread/INFO]: Ram_Tz joined the game
+[21:44:53] [Server thread/INFO]: Locating element minecraft:stronghold took 37 ms
+[21:44:58] [Server thread/INFO]: Villager class_1646['Mason'/7, l='ServerLevel[world]', x=4464.83, y=64.66, z=2491.53] died, message: 'Mason was slain by Zombie'
+[21:45:29] [Server thread/INFO]: [Ram_Tz: Teleported Ram_Tz to 5600.500000, 67.626116, 1376.500000]
+[21:45:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6761ms or 135 ticks behind
+[21:47:41] [Server thread/WARN]: Ram_Tz moved too quickly! 1.082821221112681,-3.331700930812957,9.517938504518725
+[21:47:45] [Server thread/WARN]: Ram_Tz moved too quickly! 1.662885039442699,-3.7500001489767385,10.249208678253126
