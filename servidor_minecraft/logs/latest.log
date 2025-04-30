@@ -35,3 +35,6 @@
 [21:45:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6761ms or 135 ticks behind
 [21:47:41] [Server thread/WARN]: Ram_Tz moved too quickly! 1.082821221112681,-3.331700930812957,9.517938504518725
 [21:47:45] [Server thread/WARN]: Ram_Tz moved too quickly! 1.662885039442699,-3.7500001489767385,10.249208678253126
+[21:53:33] [Server thread/INFO]: [Ram_Tz: Set own game mode to Spectator Mode]
+[21:53:51] [Server thread/INFO]: Ram_Tz has made the advancement [Eye Spy]
+[21:56:45] [Server thread/INFO]: [Ram_Tz: Set own game mode to Creative Mode]
